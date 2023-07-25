@@ -26,8 +26,8 @@
 		<h1>List Pendaftaran Tim Development <br> Mahkamah Agung RI</h1>
 	</div>
 
-	<div class="containers mt-5 mx-5">
-		<div class="div-tbl">
+	<div class="containers mt-5">
+		<div class="div-tbl mx-4 px-3">
 			<table class="table table-striped">
 				<thead>
 					<tr class="align-middle">
